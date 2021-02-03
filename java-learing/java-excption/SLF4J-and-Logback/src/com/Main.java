@@ -1,16 +1,13 @@
 package com;
-
+/**
+*课程记录
+**/
 
 import java.io.UnsupportedEncodingException;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * Learn Java from https://www.liaoxuefeng.com/
- *
- * @author liaoxuefeng
- */
 public class Main {
 
     static final Logger logger = LoggerFactory.getLogger(Main.class);
